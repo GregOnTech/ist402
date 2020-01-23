@@ -209,6 +209,14 @@ Read the articles below to learn more:
 
 
 ## Webpack
+Webpack is used in JavaScript as a module bundler. It can also transform HTML, CSS and other frontend assets. It can be used from the command line or can be configured using a config file. When webpack processes your application, it internally builds a dependency graph which maps every module your project needs and generates one or more bundles.
+
+Webpack can also take care of bundling alongside a separate task runner. However, the line between bundler and task runner has become blurred thanks to community developed webpack plugins.
+
+- [SurviveJS official definition](https://survivejs.com/webpack/what-is-webpack/)
+- [Webpack concepts](https://webpack.js.org/concepts/)
+- [Blog by Andrew Ray on webpack](https://blog.andrewray.me/webpack-when-to-use-and-why/)
+
 
 
 ## OpenFaaS
