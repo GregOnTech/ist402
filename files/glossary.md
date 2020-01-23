@@ -50,10 +50,7 @@ A front end developer works on "front end" code in an application, commonly mean
 
 
 ## IDE
-IDE stands for Integrated Development Environment. This software is used to debug, compile, and run the code. It is a software that can build applications that combines common developer tools into a single graphical user interface. IDE’s can support one or multiple languages of code. IDLE is an IDE that only supports python code. Visual studios, once downloaded the correct language, can support multiple languages. 
-[Redhat, What is an IDE?](https://www.redhat.com/en/topics/middleware/what-is-ide)
-[Wiki, Intergrated Development Environment](https://en.wikipedia.org/wiki/Integrated_development_environment)
-[Jabrils, What is an IDE](https://www.youtube.com/watch?v=vUn5akOlFXQ)
+
 
 ## VSCode
 
@@ -188,7 +185,10 @@ Read the articles below to learn more:
 
 
 ## Webpack
-
+It is a module bundler primarily for JavaScript, but it can transform front-end assets like HTML, CSS, and images if the corresponding loaders are included. Webpack takes modules with dependencies and generates static assets representing those modules. Webpack can take care of bundling alongside a separate task runner.
+- [Survive JS official definition](https://survivejs.com/webpack/what-is-webpack/)
+- [Concepts on webpacks website](https://webpack.js.org/concepts/)
+- [Andrew Rays blog on webpack](https://blog.andrewray.me/webpack-when-to-use-and-why/)
 
 ## OpenFaaS
 
